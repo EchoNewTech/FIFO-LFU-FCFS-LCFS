@@ -21,8 +21,8 @@ W repozytorium znajdują się kody źródłowe dla następujących algorytmów:
 
 ## Technologie
 
-* Język programowania: **[Tutaj wpisz język, np. C++, Python, Java]**
-* Środowisko: **[np. Visual Studio Code, CodeBlocks, Linux Terminal]**
+* Język programowania: **Python**
+* Środowisko: **PyCharm**
 
 ## Jak uruchomić
 
